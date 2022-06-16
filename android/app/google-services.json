@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "542652641445",
+    "project_id": "snake-game-16e81",
+    "storage_bucket": "snake-game-16e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542652641445:android:3300e80a1f9bcd18da1d4c",
+        "android_client_info": {
+          "package_name": "com.example.snake_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542652641445-1hnu98dq9729tk8j962ngbgkenh8jina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhd_SVXZ2ye850mm-BD2EnZO8xpMaj5eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542652641445-1hnu98dq9729tk8j962ngbgkenh8jina.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542652641445-41vhh2t19vtbsiopfie8edfon9ishqk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snakeGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
