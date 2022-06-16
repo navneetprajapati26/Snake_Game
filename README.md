@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Download the game from Play Store :-
+
+https://play.google.com/store/apps/details?id=com.mylight.snake_game
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
