@@ -7,7 +7,7 @@ Download the game from Play Store :-
 <!-- https://play.google.com/store/apps/details?id=com.mylight.snake_game -->
 <p align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.mylight.snake_game"><img src="https://img.shields.io/badge/-installs-red" alt="Total Downloads"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mylight.snake_game"><img src="https://img.shields.io/badge/Play%20Store%20-install-orange" alt=""></a>
 
 </p>
 
